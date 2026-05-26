@@ -2,7 +2,6 @@
 
 A modular multi-agent system for automated academic research, built with [LangGraph](https://github.com/langchain-ai/langgraph) and [LangChain](https://github.com/langchain-ai/langchain). A **Supervisor Agent** orchestrates a team of **Expert Agents** that search bibliographies and retrieve new papers — communicating through a shared **Blackboard** and tracked via a central **Agent Registry**.
 
-![Supervisor Graph](supervisor_graph.png)
 
 ## Architecture
 
