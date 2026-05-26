@@ -22,7 +22,7 @@ A modular multi-agent system for automated academic research, built with [LangGr
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/Sven-k-tech/Reference-Architecture-/blob/main/README.md)
 cd <repo-folder>
 ```
 
