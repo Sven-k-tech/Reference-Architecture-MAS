@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-ollama
+langgraph
+pydantic
+pydantic-settings
+python-dotenv
+tavily-python
+langfuse
+pyzotero
+arxiv
