@@ -11,12 +11,12 @@ class ResearcherAgent(BaseAgent):
     # Define the metadata for your worker agent
     # ------------------------------------------------------------------
 
-    name            = ""
-    domain          = ""
-    capabilities    = [""]
-    llm_provider    = ""
-    llm_name        = ""
-    llm_temperature = 0.2
+    name            = ""        # the name of the agent
+    domain          = ""        # the domain it is experienced in
+    capabilities    = [""]      # the capabilities of the agent
+    llm_provider    = ""        # the provider of the llm, i.e. groq 
+    llm_name        = ""        # the name of the model the agent uses
+    llm_temperature = 0.2       # the "creativity" of the agent
 
     def build_agent(self):
 
